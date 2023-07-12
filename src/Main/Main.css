@@ -1,8 +1,62 @@
 .background {
-    background-image: url(../images/background.png);
+    background-image: url(../images/background1.png);
     width: 50%;
-    background-color: rgba(0,0,0,.4);
+    height: 100%;
+    /* background-color: rgba(0,0,0,.4); */
     padding-left: 50%;
-    padding-top: 70px;
+    padding-top: 40px;
+    opacity: .8;
+    position: relative;
 }
 
+/* .main::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #2a2c2f;
+    opacity: .3;
+} */
+
+.cover {
+    position: relative;
+    display: inline-block;
+}
+
+.title {
+        /*background: rgba(0,0,0,0.7); (полупрозрачность)*/
+        /* background: #222; */
+        color: #fff;
+        border-radius: 2px;
+        position: absolute;
+        left: 0;
+        top: 10px;
+        font-size: 70px;
+        padding: 60px 60px;
+        text-align: center;
+        font-weight: 900;
+}
+
+.subtitle {
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    left: 0;
+    top: 200px;
+    font-size: 40px;
+    padding: 60px 60px;
+    text-align: center;
+    font-weight: 500;
+    margin: auto;
+    display: flex;
+}
+
+.profession__is-hidden {
+    display: none;
+}
+
+.profession__static {
+    margin: auto;
+}

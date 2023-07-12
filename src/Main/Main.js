@@ -8,12 +8,23 @@ function Main() {
   return (
     <main className="main">
         <Header/>
+        <div className='cover'>
+            <div className='content'>
+                <h1 className='title'>Эльвира&nbsp; 
+                <span>Муравьёва</span>
+                </h1>
+                <div className='subtitle'>
+                <span className='profession'>
+                    <b className='profession__is-visible'>Фронтенд&nbsp;</b>
+                    <b className='profession__is-hidden'>Бэкенд&nbsp;</b>
+
+                    </span>
+                <h4 className='profession__static'>разработчик</h4>
+                </div>
+            </div>
         <img className="background" src={background} alt="logo">
             </img>
-        {/* <p>
-          Скоро здесь что-то появится
-        </p>
-        <a
+        {/* <a
           className="App-link"
           href="https://vk.com/elis4ever"
           target="_blank"
@@ -21,6 +32,7 @@ function Main() {
         >
           ВК
         </a> */}
+        </div>
       </main>
   );
 }
