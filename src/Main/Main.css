@@ -1,0 +1,8 @@
+.background {
+    background-image: url(../images/background.png);
+    width: 50%;
+    background-color: rgba(0,0,0,.4);
+    padding-left: 50%;
+    padding-top: 70px;
+}
+

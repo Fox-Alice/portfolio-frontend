@@ -1,5 +1,8 @@
-.App {
-  text-align: center;
+.page {
+  /* text-align: center; */
+  font-family: Inter, sans-serif;
+  background-color: #202020;
+  height: 100vh;
 }
 
 .App-logo {
@@ -13,7 +16,7 @@
   }
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -35,4 +38,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

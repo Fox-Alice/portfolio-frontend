@@ -1,0 +1,30 @@
+.logo {
+    width: 60px;
+}
+
+@keyframes logo {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) {
+    .logo {
+      animation: logo infinite 20s linear;
+    }
+  }
+  
+  
+
+.header {
+    background-color: rgba(0,0,0,.4);
+    padding: 60px 40px 0 60px;
+}
+
+.header__container {
+    display: flex;
+    justify-content: space-between;
+}
