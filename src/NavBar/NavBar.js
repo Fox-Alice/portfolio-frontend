@@ -11,7 +11,7 @@ function NavBar() {
                     </a>
                 </li>
                 <li className='navbar__item'>
-                <a className='navbar__link' href="#resume">
+                <a className='navbar__link' target="_blank" href="https://docs.google.com/document/d/e/2PACX-1vQBsLPGU0-ldiRoYOme4iTJbMxgb8oen0s3KqwC14D1YQdqCc5KGiXCtLq9Vn73lp4uyaqFEj56CdVx/pub">
                     Резюме
                     </a>
                 </li>
