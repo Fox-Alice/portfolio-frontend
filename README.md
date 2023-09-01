@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Сайт-визитка с основной информацией и ссылками на портфолио
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Проект был создан для самопрезентации и содержит повод для гордости - мои работы 
 
 ## Available Scripts
 
