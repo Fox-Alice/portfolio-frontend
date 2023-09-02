@@ -37,6 +37,7 @@
         padding: 60px 60px;
         text-align: center;
         font-weight: 900;
+        font-family: 'Evolventa Bold';
 }
 
 .subtitle {
@@ -51,6 +52,7 @@
     font-weight: 500;
     margin: auto;
     display: flex;
+    font-family: 'Evolventa Regular';
 }
 
 .profession__is-hidden {
