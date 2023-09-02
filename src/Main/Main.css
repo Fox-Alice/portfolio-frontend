@@ -39,7 +39,22 @@
         font-weight: 900;
         font-family: 'Evolventa Bold';
         
-            color: #fff;
+}
+
+.subtitle {
+    color: #fff;
+    border-radius: 2px;
+    position: absolute;
+    left: 0;
+    top: 200px;
+    font-size: 40px;
+    padding: 0 60px;
+    text-align: center;
+    font-weight: 500;
+    margin:  60px auto;
+    display: flex;
+    font-family: 'Evolventa Regular';
+    color: #fff;
             /* font-family: monospace; */
             overflow: hidden; /* Ensures the content is not revealed until the animation */
             border-right: .15em solid #fff; /* The typwriter cursor */
@@ -55,28 +70,14 @@
           /* The typing effect */
           @keyframes typing {
             from { width: 0 }
-            to { width: 50% }
+            to { width: 35% }
           }
           
           /* The typewriter cursor effect */
           @keyframes blink-caret {
             from, to { border-color: transparent }
             50% { border-color: #fff }
-}
 
-.subtitle {
-    color: #fff;
-    border-radius: 2px;
-    position: absolute;
-    left: 0;
-    top: 200px;
-    font-size: 40px;
-    padding: 60px 60px;
-    text-align: center;
-    font-weight: 500;
-    margin: auto;
-    display: flex;
-    font-family: 'Evolventa Regular';
 }
 
 .profession__is-hidden {
