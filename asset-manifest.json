@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Fox-Alice/portfolio-frontend.git/static/css/main.14c456fa.css",
+    "main.js": "/Fox-Alice/portfolio-frontend.git/static/js/main.6936d198.js",
+    "static/js/787.c78a8ab9.chunk.js": "/Fox-Alice/portfolio-frontend.git/static/js/787.c78a8ab9.chunk.js",
+    "static/media/background1.png": "/Fox-Alice/portfolio-frontend.git/static/media/background1.1f705ed06de77942607b.png",
+    "static/media/logo3.jpg": "/Fox-Alice/portfolio-frontend.git/static/media/logo3.23ae14020ae4b8a69385.jpg",
+    "static/media/Evolventa-BoldOblique.woff": "/Fox-Alice/portfolio-frontend.git/static/media/Evolventa-BoldOblique.ef4cc8b1515b6a3da875.woff",
+    "static/media/Evolventa-Bold.woff": "/Fox-Alice/portfolio-frontend.git/static/media/Evolventa-Bold.6197828bb828d51cf7c1.woff",
+    "static/media/Evolventa-Oblique.woff": "/Fox-Alice/portfolio-frontend.git/static/media/Evolventa-Oblique.57e7908d4c571d8025fe.woff",
+    "static/media/Evolventa-Regular.woff": "/Fox-Alice/portfolio-frontend.git/static/media/Evolventa-Regular.66a676b18f6b8721acac.woff",
+    "index.html": "/Fox-Alice/portfolio-frontend.git/index.html",
+    "main.14c456fa.css.map": "/Fox-Alice/portfolio-frontend.git/static/css/main.14c456fa.css.map",
+    "main.6936d198.js.map": "/Fox-Alice/portfolio-frontend.git/static/js/main.6936d198.js.map",
+    "787.c78a8ab9.chunk.js.map": "/Fox-Alice/portfolio-frontend.git/static/js/787.c78a8ab9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14c456fa.css",
+    "static/js/main.6936d198.js"
+  ]
+}
