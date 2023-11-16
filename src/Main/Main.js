@@ -22,8 +22,8 @@ function Main() {
                 <h4 className='profession__static'>разработчик</h4>
                 </div>
             </div>
-        <img className="background" src={background} alt="logo">
-            </img>
+        {/* <img className="background" src={background} alt="logo"> */}
+            {/* </img> */}
         {/* <a
           className="App-link"
           href="https://vk.com/elis4ever"
