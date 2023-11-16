@@ -1,5 +1,5 @@
 import './Header.css';
-import logo from '../images/logo3.jpg';
+import logo from '../images/logo5.webp';
 import NavBar from '../NavBar/NavBar';
 
 

@@ -21,7 +21,7 @@ function NavBar() {
                     </a>
                 </li>
                 <li className='navbar__item'>
-                <a className='navbar__link' href="#blog">
+                <a className='navbar__link' href="https://vk.com/elis4ever">
                     Блог
                     </a>
                 </li>

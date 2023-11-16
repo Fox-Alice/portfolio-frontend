@@ -1,6 +1,6 @@
 import './Main.css';
 import Header from '../Header/Header';
-import background from '../images/background1.png';
+import image from '../images/main_image.JPG';
 
 
 
@@ -22,8 +22,8 @@ function Main() {
                 <h4 className='profession__static'>разработчик</h4>
                 </div>
             </div>
-        {/* <img className="background" src={background} alt="logo"> */}
-            {/* </img> */}
+        <img className="image" src={image} alt="Фото"> 
+        </img>
         {/* <a
           className="App-link"
           href="https://vk.com/elis4ever"

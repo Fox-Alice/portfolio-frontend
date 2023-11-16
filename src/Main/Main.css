@@ -1,9 +1,9 @@
-.background {
-    background-image: url(../images/background1.png);
-    width: 50%;
+.image {
+    /* background-image: url(../images/main_image.JPG); */
+    width: 20%;
     height: 100%;
     /* background-color: rgba(0,0,0,.4); */
-    padding-left: 50%;
+    padding-left: 70%;
     padding-top: 40px;
     opacity: .8;
     position: relative;
