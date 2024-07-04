@@ -5,9 +5,11 @@ import './Footer.css';
 
 function Footer() {
   return (
-    <footer className="footer">
+    <footer className='footer'>
+        <a className='footer__link navbar__link' href='https://github.com/Fox-Alice'>
         <p className='footer__author'>© 2024 Fox-Alice        
         </p>
+        </a>
       </footer>
   );
 }
