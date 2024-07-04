@@ -1,5 +1,6 @@
 import './Main.css';
 import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 import image from '../images/main_image1.jpg';
 
 
@@ -33,6 +34,7 @@ function Main() {
           ВК
         </a> */}
         </div>
+        <Footer/>
       </main>
   );
 }
