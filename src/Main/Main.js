@@ -1,6 +1,6 @@
 import './Main.css';
 import Header from '../Header/Header';
-import image from '../images/main_image.JPG';
+import image from '../images/main_image1.jpg';
 
 
 
